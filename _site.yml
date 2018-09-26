@@ -1,0 +1,13 @@
+name: "Jacob Cathcart"
+navbar:
+  title: "Jacob Cathcart"
+  left:
+  - text: "Resume"
+    href: resume.html
+  - text: "Contact"
+    href: contact.html
+
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
