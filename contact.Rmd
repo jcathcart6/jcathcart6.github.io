@@ -8,5 +8,7 @@ title: "Misc"
 # Jacob Cathcart | Cathcartjk@appstate.edu | 919-800-8208 | [Instagram](http://www.instagram.com/jcathcart13/)
 
 [Intro to Statistics with R: Introduction](http://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
-[Working with the RStudio IDE (Part 1)] (http://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1)
+
+
+[Working with the RStudio IDE (Part 1)](http://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1)
 

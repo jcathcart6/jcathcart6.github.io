@@ -82,4 +82,4 @@ EXTRACURRICULAR ACTIVITIES
 - Exceptional problem solving abilities
 - **Publication** - Co-author J. Cathcart, Et Al. &quot;Combining Fuzzy-AHP and Borda Counting to Select a Candidate,&quot; INFORMS Business Analytics Conference, Las Vegas, January 2017. URL: http://mathsci.appstate.edu/∼wmcb/INFORMS/2017/Candidate Selection.pdf
 - Certifications 
-  - [Git and Data Science] (http://www.datacamp.com/statement-of-accomplishment/course/a27cbc69d3044740f6901b9778aa60d3d29c4a49)
+[Git and Data Science](http://www.datacamp.com/statement-of-accomplishment/course/a27cbc69d3044740f6901b9778aa60d3d29c4a49)
