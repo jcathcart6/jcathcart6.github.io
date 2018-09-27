@@ -2,6 +2,9 @@
 title: "Resume"
 
 ---
+A PDF copy can be found [here](Resume.pdf).
+
+
 **Jacob Cathcart**
 
 335 Old Bristol Road Apt. 301 - Boone, NC 28607 - Cathcartjk@appstate.edu - 919-800-8208
@@ -78,3 +81,5 @@ EXTRACURRICULAR ACTIVITIES
 - Excellent communication skills     
 - Exceptional problem solving abilities
 - **Publication** - Co-author J. Cathcart, Et Al. &quot;Combining Fuzzy-AHP and Borda Counting to Select a Candidate,&quot; INFORMS Business Analytics Conference, Las Vegas, January 2017. URL: http://mathsci.appstate.edu/∼wmcb/INFORMS/2017/Candidate Selection.pdf
+- Certifications 
+  - [Git and Data Science] (http://www.datacamp.com/statement-of-accomplishment/course/a27cbc69d3044740f6901b9778aa60d3d29c4a49)
