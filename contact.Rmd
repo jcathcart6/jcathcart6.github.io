@@ -5,7 +5,7 @@ title: "Misc"
 
 
 
-# Jacob Cathcart | Cathcartjk@appstate.edu | 919-800-8208 | [Instagram](http://www.instagram.com/jcathcart13/) | [GIT](https://github.com/jcathcart6)
+### Jacob Cathcart | Cathcartjk@appstate.edu | 919-800-8208 | [Instagram](http://www.instagram.com/jcathcart13/) | [GIT](https://github.com/jcathcart6)
 
 [Intro to Statistics with R: Introduction](http://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
 
